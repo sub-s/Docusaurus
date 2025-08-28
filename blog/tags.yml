@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+안녕하세요:
+  label: 안녕하세요
+  permalink: /안녕하세요
+  description: 안녕하세요 태그 설명
