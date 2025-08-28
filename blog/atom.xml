@@ -85,12 +85,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 번째 블로그 포스트]]></title>
-        <id>https://sub-s.github.io/Docusaurus/blog/first-blog-post</id>
-        <link href="https://sub-s.github.io/Docusaurus/blog/first-blog-post"/>
+        <id>https://sub-s.github.io/Docusaurus/blog/1</id>
+        <link href="https://sub-s.github.io/Docusaurus/blog/1"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[안녕하세요! 이것은 제 첫 번째 블로그 포스트입니다.]]></summary>
         <content type="html"><![CDATA[<p>안녕하세요! 이것은 제 첫 번째 블로그 포스트입니다.</p>
-<p>Docusaurus로 만든 웹사이트에 오신 것을 환영합니다. 이곳에서 다양한 내용을 공유할 예정입니다. 앞으로 많은 관심 부탁드립니다!</p>]]></content>
+<p>Docusaurus로 만든 웹사이트에 오신 것을 환영합니다.
+이곳에서 다양한 내용을 공유할 예정입니다.</p>
+<p>앞으로 많은 관심 부탁드립니다!</p>]]></content>
         <author>
             <name>용섭신</name>
             <uri>https://github.com/sub-s/</uri>
