@@ -86,11 +86,11 @@ const config: Config = {
           label: "가이드",
         },
         { to: "/blog", label: "블로그", position: "left" },
-                  {
-            href: "https://github.com/sub-s/Docusaurus",
-            label: "GitHub",
-            position: "right",
-          },
+        {
+          href: "https://github.com/sub-s/Docusaurus",
+          label: "GitHub",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -129,10 +129,10 @@ const config: Config = {
               label: "블로그",
               to: "/blog",
             },
-                          {
-                label: "GitHub",
-                href: "https://github.com/sub-s/Docusaurus",
-              },
+            {
+              label: "GitHub",
+              href: "https://github.com/sub-s/Docusaurus",
+            },
           ],
         },
       ],
