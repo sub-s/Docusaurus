@@ -50,36 +50,40 @@ git push -u origin main
 ## 6. 커스터마이징
 
 ### 사이트 제목 및 설명 변경
+
 `docusaurus.config.ts` 파일에서 다음 설정을 수정하세요:
 
 ```typescript
 const config: Config = {
-  title: '당신의 사이트 제목',
-  tagline: '사이트 설명',
+  title: "당신의 사이트 제목",
+  tagline: "사이트 설명",
   // ...
-}
+};
 ```
 
 ### GitHub 정보 업데이트
+
 `docusaurus.config.ts` 파일에서 다음 설정을 수정하세요:
 
 ```typescript
 const config: Config = {
   // ...
-  organizationName: 'YOUR_GITHUB_USERNAME',
-  projectName: 'YOUR_REPO_NAME',
+  organizationName: "YOUR_GITHUB_USERNAME",
+  projectName: "YOUR_REPO_NAME",
   // ...
-}
+};
 ```
 
 ## 7. 문제 해결
 
 ### 배포가 실패하는 경우
+
 1. GitHub Actions 로그를 확인하세요
 2. Node.js 버전이 18 이상인지 확인하세요
 3. 저장소가 공개로 설정되어 있는지 확인하세요
 
 ### 사이트가 표시되지 않는 경우
+
 1. GitHub Pages 설정에서 소스가 "GitHub Actions"로 설정되어 있는지 확인하세요
 2. 배포 URL이 올바른지 확인하세요
 3. 브라우저 캐시를 지우고 다시 시도해보세요
