@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: 첫 번째 블로그 포스트
-authors: [yongsubshin]
+authors: [sub-s]
 tags: [안녕하세요, docusaurus]
 ---
 
