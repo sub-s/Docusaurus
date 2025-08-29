@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
+            <title><![CDATA[웹 접근성 가이드라인]]></title>
             <link>https://sub-s.github.io/Docusaurus/blog/accessibility</link>
             <guid>https://sub-s.github.io/Docusaurus/blog/accessibility</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
@@ -153,7 +153,7 @@
             <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
+            <title><![CDATA[CSS 클래스 명명을 위한 BEM 방법론]]></title>
             <link>https://sub-s.github.io/Docusaurus/blog/block-element-modifier-methodology</link>
             <guid>https://sub-s.github.io/Docusaurus/blog/block-element-modifier-methodology</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
@@ -211,7 +211,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
             <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
+            <title><![CDATA[Type script 이벤트 타입 모음]]></title>
             <link>https://sub-s.github.io/Docusaurus/blog/react-event-type</link>
             <guid>https://sub-s.github.io/Docusaurus/blog/react-event-type</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
@@ -267,7 +267,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
             <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
+            <title><![CDATA[Sass(SCSS)란!]]></title>
             <link>https://sub-s.github.io/Docusaurus/blog/scss-guide</link>
             <guid>https://sub-s.github.io/Docusaurus/blog/scss-guide</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
@@ -395,7 +395,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
             <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
+            <title><![CDATA[WAI-ARIA 가이드라인]]></title>
             <link>https://sub-s.github.io/Docusaurus/blog/wai-aria</link>
             <guid>https://sub-s.github.io/Docusaurus/blog/wai-aria</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>

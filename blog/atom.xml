@@ -8,7 +8,7 @@
     <subtitle>내 웹사이트 Blog</subtitle>
     <icon>https://sub-s.github.io/Docusaurus/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <title type="html"><![CDATA[웹 접근성 가이드라인]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/accessibility</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/accessibility"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
@@ -156,7 +156,7 @@
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <title type="html"><![CDATA[CSS 클래스 명명을 위한 BEM 방법론]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/block-element-modifier-methodology</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/block-element-modifier-methodology"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
@@ -218,7 +218,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <title type="html"><![CDATA[Type script 이벤트 타입 모음]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/react-event-type</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/react-event-type"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
@@ -278,7 +278,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <title type="html"><![CDATA[Sass(SCSS)란!]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/scss-guide</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/scss-guide"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
@@ -410,7 +410,7 @@ BEM(Block, Element, Modifier)은 CSS 클래스 네이밍의 혼란을 줄이고 
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <title type="html"><![CDATA[WAI-ARIA 가이드라인]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/wai-aria</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/wai-aria"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
