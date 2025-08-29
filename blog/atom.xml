@@ -435,7 +435,7 @@ WAI-ARIA를 사용하기에 앞서 HTML을 의미 있게 사용했는지 충분�
         <title type="html"><![CDATA[Long Blog Post]]></title>
         <id>https://sub-s.github.io/Docusaurus/blog/accessibility</id>
         <link href="https://sub-s.github.io/Docusaurus/blog/accessibility"/>
-        <updated>2025-08-29T01:37:48.504Z</updated>
+        <updated>2025-08-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[본 가이드는 WCAG 원문, WCAG 2.2 한글에 의하여 작성 되었으며,]]></summary>
         <content type="html"><![CDATA[<p>본 가이드는 <a href="https://www.w3.org/TR/WCAG22/" target="_blank" rel="noopener noreferrer">WCAG 원문</a>, <a href="https://a11ykr.github.io/wcag22/#abstract" target="_blank" rel="noopener noreferrer">WCAG 2.2 한글</a>에 의하여 작성 되었으며,
 설명하지 않거나 애매한 주제는 <a href="https://www.w3.org/TR/WCAG22/" target="_blank" rel="noopener noreferrer">WCAG 원문</a>, <a href="https://a11ykr.github.io/wcag22/#abstract" target="_blank" rel="noopener noreferrer">WCAG 2.2 한글</a>에 접속하여 지침 및 평가 방법을 따르도록 합니다.</p>
