@@ -9,6 +9,18 @@ const config: Config = {
   tagline: "Docusaurus로 만든 멋진 웹사이트",
   favicon: "img/favicon.ico",
 
+  plugins: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true, // 검색 인덱스 캐싱 최적화
+        language: ["ko", "en"], // 한국어 & 영어 검색 지원
+        highlightSearchTermsOnTargetPage: true, // 검색어 하이라이트
+        explicitSearchResultPath: true, // 검색 결과 페이지 생성
+      },
+    ],
+  ],
+
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
